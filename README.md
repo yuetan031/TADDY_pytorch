@@ -1,2 +1,2 @@
-# TADDY_pytorch
-A Pytorch implement of TKDE paper "Anomaly detection in dynamic graphs via transformer" (TADDY).
+# TADDY: Anomaly detection in dynamic graphs via transformer
+This repo covers an reference implementation for the paper "Anomaly detection in dynamic graphs via transformer" (TADDY).
