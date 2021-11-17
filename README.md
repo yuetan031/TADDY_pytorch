@@ -16,13 +16,11 @@ Some codes are borrowed from [Graph-Bert](https://github.com/jwzhanggy/Graph-Ber
 
 ## Usage
 ### Step 0: Prepare Data
-Example:
 ```
 python 0_prepare_data.py --dataset uci
 ```
 
 ### Step 1: Train Model
-Example:
 ```
 python 1_train.py --dataset uci --anomaly_per 0.1
 ```
