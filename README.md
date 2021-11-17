@@ -35,9 +35,6 @@ If this code is helpful, please cite the original paper:
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
   title={Anomaly Detection in Dynamic Graphs via Transformer}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
   doi={10.1109/TKDE.2021.3124061}}
 
 ```
